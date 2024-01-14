@@ -1,2 +1,2 @@
-# branching
-Demonstrates a branching strategy for managing development, testing, and production environments.
+# Production Environment
+This branch represents the stable and tested version of the codebase ready for deployment. 
